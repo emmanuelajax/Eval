@@ -1,0 +1,12 @@
+.Hero{
+    border: solid black 1px;
+    background-color: darkgoldenrod;
+    justify-content: center;
+    width: 50%;
+    margin-left: 25%;
+}
+
+.Titre{
+    font: 4rem "Fira Sans", sans-serif;
+    justify-content: center;
+}
